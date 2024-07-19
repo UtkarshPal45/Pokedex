@@ -46,7 +46,7 @@ function Home() {
         Prev
       </button>
       <button className="Button NextButton" onClick={nextPage}>Next</button>
-        <p className="copyright">Made with ❤ by <a target="_blank" style={{textDecoration:"none"}} href="https://github.com/Shre233">Utkarsh Pal</a></p>
+        <p className="copyright">Made with ❤ by <a target="_blank" style={{textDecoration:"none"}} href="https://github.com/UtkarshPal45">Utkarsh Pal</a></p>
     </div>
   );
 }
